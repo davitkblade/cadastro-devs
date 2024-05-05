@@ -1,0 +1,41 @@
+*{
+    
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: 	#5F9EA0;
+}
+
+form {
+    width: 400px;
+    padding: 20px;
+    border: 1px solid #34477a;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: azure;
+}
+
+img{
+    height: 265px;
+}
+
+h1{
+    color: white;
+}
+#cadastrar{
+    background-color: #34477a;
+    color: white;
+}
+#addBtn{
+    background-color: rgb(236, 236, 236);
+    color: rgb(37, 36, 36);
+}
+
